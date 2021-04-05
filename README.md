@@ -1,5 +1,5 @@
 # ftx-compound-lending
-Simple Python script that leverages FTX Rest API to compound margin lending.
+Simple Python script that leverages FTX Rest API to automatically compound interest in margin lending.
 
 ## Disclaimer
 Any action you take upon the information in this repository is strictly at your own risk. I will not be liable for any losses.
